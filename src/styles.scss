@@ -1,0 +1,20 @@
+@import "../node_modules/angular-calendar/css/angular-calendar.css";
+
+.cal-days{
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.cal-month-view {
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.cal-month-view .cal-day-cell {
+  height: 133px;
+}
+
+.cal-week-view{
+  width: 1400px;
+  margin: 0 auto;
+}
